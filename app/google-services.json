@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015196003749",
+    "project_id": "fir-remoteconfigdemo-d8aa8",
+    "storage_bucket": "fir-remoteconfigdemo-d8aa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015196003749:android:21d53c570076e157ef4c4c",
+        "android_client_info": {
+          "package_name": "com.witsindia.firebaseremoteconfigdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015196003749-h796rnjsk2462gus1pbt4m4pu7bdn3fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7IVUTw0lCKYx1HpTeZ-ZJHXbEiRZw1RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015196003749-h796rnjsk2462gus1pbt4m4pu7bdn3fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
